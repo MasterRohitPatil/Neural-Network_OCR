@@ -3,3 +3,4 @@ This was an Amazing workshop conducted by IEEE sies gst, focuses on the core pri
 
 ## Single Neuron output 
 neuron output = (input*weight)+bias
+
